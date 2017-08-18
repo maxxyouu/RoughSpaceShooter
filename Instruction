@@ -1,0 +1,10 @@
+Run Main_Game.py to play
+
+Press z, x, c, v to fire bullets
+use mouse to control the movement of the ship
+
+note: key 'c' and key 'v' only fire when the ship has enough power
+
+Blue represent power bar
+
+Green represent the health bar
